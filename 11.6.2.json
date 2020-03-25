@@ -46,7 +46,7 @@
 			}
 		},
 		"examples": {
-			"name": "Examples",
+			"name": "예시",
 			"files": {
 				"ping": {
 					"name": "Ping",
